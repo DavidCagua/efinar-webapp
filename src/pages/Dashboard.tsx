@@ -3,7 +3,7 @@ import React from "react";
 type Props = {};
 
 const Dashboard = (props: Props) => {
-  return <div>shboard</div>;
+  return <div>ashboard</div>;
 };
 
 export default Dashboard;
